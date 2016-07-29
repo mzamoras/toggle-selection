@@ -1,17 +1,12 @@
 {
   "name": "toggle-selection",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "Toggle current selected content in browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "selection",
-    "toggle",
-    "browser",
-    "deselect"
-  ],
+  "keywords": ["selection", "toggle", "browser", "deselect"],
   "author": "sudodoki <smd.deluzion@gmail.com> (sudodoki.name)",
   "license": "MIT",
   "contributors": [
